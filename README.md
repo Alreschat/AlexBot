@@ -17,4 +17,4 @@ This project is using discord, ebooklib and dateutil.
 ### Accessing Alexandria
 
 
-At the time of writing there is no public or guest access into Alexandria. If you'd like to join the beta, contact the admin at __iris at alexandria dot serv dot pink__ ([alexandria.serv.pink](alexandria.serv.pink)).
+At the time of writing there is no public or guest access into Alexandria. If you'd like to join the beta, contact the admin at __iris at alexandria dot serv dot pink__ ([alexandria.serv.pink](https://alexandria.serv.pink)).
