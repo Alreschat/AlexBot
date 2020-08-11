@@ -77,7 +77,7 @@ async def createEpub(link, channel):
     book.add_item(intro)
     # define Table Of Contents
     book.toc = (epub.Link('introduction.xhtml', 'Introduction', 'intro'),
-                (epub.Section('rest of the fucking owl'),
+                (epub.Section('rest of the beautiful owl'),
                 list(chapters.values()))
                 )
 
